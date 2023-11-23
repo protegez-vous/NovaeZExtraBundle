@@ -18,8 +18,7 @@
     ],
     "require": {
         "php": "^7.3 || ^8.0",
-        "novactive/collection": "3.*",
-        "phpoffice/phpspreadsheet": "*"
+        "novactive/collection": "3.*"
     },
     "require-dev": {
         "fzaninotto/faker": "dev-master"
